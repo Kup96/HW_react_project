@@ -44,6 +44,39 @@ export default {
     'a Product',
     'a Startup',
   ],
+  CARDS_HOME: [
+    {
+      img_src: `/staticImages/more-benifits-world-icon.png`,
+      img_alt:'globe',
+      header: 'Largest Naming Community',
+      main:`Our unique approach allows you to receive an unmatched breadth of business name ideas from world's largest community of naming experts. With 75,000+ creatives and 15,000+ successful naming projects, Squadhelp is by far the largest naming platform across the globe .`,
+    },
+    {
+      img_src:'/staticImages/more-benifits-high-quality-icon.png',
+      img_alt: 'desktop',
+      header: 'High Quality & Collaboration',
+      main:`Using an advanced Quality Scoring Algorithm and Machine Learning, we ensure that you receive more ideas from our top-quality creatives, and Gamification best practices ensure two-way communication throughout your contest.`,
+    },
+    {
+      img_src:'/staticImages/more-benifits-trademark-icon.png',
+      img_alt:'cards',
+      header: 'Agency-Level Features',
+      main:`Squadhelp's high end Audience Testing service allows you to poll your target demographics to get unbiased feedback on your favorite names. Also receive Trademark support from our team of Licensed Trademark Attorneys, so you can pick your name with confidence.`,
+    },
+  ],
+  PAY_INFO: 
+    [
+      {
+        "title": "Pay a Fraction of cost vs hiring an agency",
+        "text": "For as low as $299, our naming contests and marketplace allow you to get an amazing brand quickly and affordably.",
+
+      },
+      {
+        "title": "Satisfaction Guarantee",
+        "text": "Of course! We have policies in place to ensure that you are satisfied with your experience. Learn more",
+
+      },
+    ],
   FooterItems: [
     {
       title: 'SQUADHELP',
