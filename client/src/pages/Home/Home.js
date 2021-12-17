@@ -10,6 +10,7 @@ import carouselConstants from '../../carouselConstants';
 import Spinner from '../../components/Spinner/Spinner';
 import HomeCards from '../../components/HomeCards/HomeCards';
 import PayInfo from '../../components/PayInfo/PayInfo';
+import PriceCard from '../../components/PriceList/PriceList';
 
 
 const Home = (props) => {
@@ -184,6 +185,7 @@ const Home = (props) => {
               </div>
             
           </div>
+          <PriceCard />
           <Footer />
         </>
       )}
